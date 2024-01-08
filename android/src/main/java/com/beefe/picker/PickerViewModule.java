@@ -6,7 +6,6 @@ import android.app.Dialog;
 import android.graphics.Color;
 import android.graphics.PixelFormat;
 import android.graphics.Typeface;
-import android.support.annotation.Nullable;
 import android.text.TextUtils;
 import android.view.Gravity;
 import android.view.View;
@@ -37,6 +36,7 @@ import com.facebook.react.modules.core.DeviceEventManagerModule;
 import java.util.ArrayList;
 
 import static android.graphics.Color.argb;
+import androidx.annotation.Nullable;
 
 /**
  * Author: <a href="https://github.com/shexiaoheng">heng</a>
